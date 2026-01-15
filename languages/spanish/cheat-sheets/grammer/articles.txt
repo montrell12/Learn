@@ -1,0 +1,18 @@
+Indefinite Articles (a / an)
+| Spanish  | English | When to use        | Example                      |
+| -------- | ------- | ------------------ | ---------------------------- |
+| **un**   | a / an  | masculine singular | **un libro** → a book        |
+| **una**  | a / an  | feminine singular  | **una casa** → a house       |
+| **unos** | some    | masculine plural   | **unos perros** → some dogs  |
+| **unas** | some    | feminine plural    | **unas mesas** → some tables |
+
+
+Definite Articles (the)
+| Spanish | English | When to use        | Example                    |
+| ------- | ------- | ------------------ | -------------------------- |
+| **el**  | the     | masculine singular | **el libro** → the book    |
+| **la**  | the     | feminine singular  | **la casa** → the house    |
+| **los** | the     | masculine plural   | **los perros** → the dogs  |
+| **las** | the     | feminine plural    | **las mesas** → the tables |
+
+
